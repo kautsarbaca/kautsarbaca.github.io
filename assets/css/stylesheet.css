@@ -234,3 +234,23 @@ footer {
   padding-bottom: 20px;
   background-color: #000;
 }
+
+.form-control{
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+
+.btn-search{
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 1rem;
+  line-height: 1.5;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
