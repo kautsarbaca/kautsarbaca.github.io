@@ -8,9 +8,13 @@ var items =[
 var bookList = document.getElementById('bookList');
 
 for (let i = 0; i < items.length; i++) {
+		//<div class="lesson">
+		var lesson = document.createElement('div')
+		lesson.classList.add('lesson')
 		//<div class="lesson-icon">
 		var lessonIcon = document.createElement('div')
-		lessonIcon.classList.add('lesson-icon')		
+		lessonIcon.classList.add('lesson-icon')
+		lesson.appendChild(lessonIcon)
 		//     <img src="assets/image/sampul/kom1.png">        
 		var lessonImg = document.createElement('img') 
 		lessonImg.setAttribute('src','assets/image/sampul/'+items[i][2])
@@ -37,6 +41,7 @@ for (let i = 0; i < items.length; i++) {
 		link.appendChild(linkTxt)
 
 		// </div>
+	bookList.appendChild(lesson)
         bookList.appendChild(lessonIcon)
         bookList.appendChild(textContents)
         bookList.appendChild(description)
