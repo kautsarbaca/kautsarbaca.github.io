@@ -1,6 +1,7 @@
 var items =[
 	
-	['Komitmen Sejati Seorang Muslim','Tulisan yang dibuat oleh Fathi Yakan ini mengajak kita berpikir kembali, Apa artinya saya mengaku muslim.','kom1.png','https://drive.google.com/file/d/10FetXD1eer4Haom2HkiUepZrHg8qhmPG/view?usp=sharing']
+	['Komitmen Sejati Seorang Muslim','Tulisan yang dibuat oleh Fathi Yakan ini mengajak kita berpikir kembali, Apa artinya saya mengaku muslim.','kom1.png','https://drive.google.com/file/d/10FetXD1eer4Haom2HkiUepZrHg8qhmPG/view?usp=sharing'],
+	['Keajaiban Ikhlas','Cara meraih kesuksesan, kebaikan dan kebahagiaan hidup " Dunia Akhirat" oleh Muhammad Gatot Aryo.','screenBeni.jpg','https://drive.google.com/file/d/1-A5RbHPPNP3TYlZijxmtufPfhgST3ewf/view?usp=sharing']
 
 ]
 
